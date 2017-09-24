@@ -3,7 +3,7 @@
  include("set_bootstrap.php");
  $error = $_REQUEST[error];
 ?>
-สวัสดีครับ
+สวัสดีครับxxxyyyy
 <body>
 
     <div class="container">
